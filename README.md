@@ -1,7 +1,7 @@
 # WordClock
 
 This is the software part of the Arduino based Word Clock. The clock is a 11 x 10 matrix of white LEDs.
-The clock's time is refreshed every 15 seconds.
+The clock's time is refreshed every 15 seconds. This is how it looks like: http://imgur.com/UbCXFbL
 
 The clock consists of the following components:
 * MAX7219 LED driver: since there is 110 LEDs there two of them.
